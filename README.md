@@ -1,3 +1,3 @@
 # Megamania
 
-Game made for the final project from "Algorithms and Programming" class at college, the first programming class.
+Game made for the final project from "Algorithms and Programming", the first programming class at college.
